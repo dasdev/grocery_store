@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804246307244",
+    "project_id": "sdnl-21ccd",
+    "storage_bucket": "sdnl-21ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804246307244:android:311c04563e05070c4efa09",
+        "android_client_info": {
+          "package_name": "com.sdnl.grocery_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804246307244-a00j829rnfh6g4tq9dlsgrep4dp1otvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKe9I3ML29u5Y8EMTgycTF9S4iy5aNwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804246307244-a00j829rnfh6g4tq9dlsgrep4dp1otvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
